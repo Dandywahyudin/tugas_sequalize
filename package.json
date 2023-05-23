@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.3.2",
+    "sequelize": "^6.31.1"
+  },
+  "name": "tugas_sequalize",
+  "description": "Tugas sequalize bootcamp Pesilat Alkademi",
+  "version": "1.0.0",
+  "main": "js.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
